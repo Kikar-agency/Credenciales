@@ -1,0 +1,20 @@
+# ============================================================
+#  DATOS QUE SE REPITEN EN TODAS LAS CREDENCIALES
+#  Cambiar acá cambia TODAS las credenciales a la vez.
+# ============================================================
+
+# Fechas (formato DD/MM/AA, tal cual se imprimen)
+emitido: "01/04/25"
+vence: "01/04/26"
+
+# Dirección y teléfono (dos renglones, en mayúsculas)
+direccion_linea_1: "27 DE ABRIL 224, CENTRO, VILLA OJO DE AGUA"
+direccion_linea_2: "SANTIAGO DEL ESTERO. TEL:+549 3856 402172"
+
+# Texto fijo de la tarjeta
+fichero: "FICHERO DE CULTO 8215"
+nota: "Nota: Este carnet tiene validez correspondiente solo con su renovación anual"
+
+# Tamaño de la tarjeta en milímetros (85.6 x 54 = tamaño tarjeta de crédito)
+ancho_mm: 85.6
+alto_mm: 54

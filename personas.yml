@@ -1,0 +1,88 @@
+# ============================================================
+#  LISTA DE CREDENCIALES
+#
+#  Para agregar una persona, copiá un bloque entero (desde el "-")
+#  y cambiá los datos. Respetá los espacios de la izquierda.
+#
+#   nombre:  como se imprime (en mayúsculas)
+#   cargo:   OBRERO, COLABORADOR, UJIER, etc.
+#   foto:    nombre del archivo subido a la carpeta "fotos"
+#   firma:   nombre del archivo subido a la carpeta "firmas"
+#            (la firma de la persona; si no lleva, borrar la línea)
+#   fechas:  no  -> no imprime Emitido / Vence (opcional)
+# ============================================================
+
+- nombre: DANIEL MAURICIO GACITÚA
+  cargo: PRESIDENTE
+  foto: daniel-gacitua.jpg
+  fechas: no
+
+- nombre: MARIA EUGENIA MARTÍNEZ DE GACITÚA
+  cargo: VICE-PRESIDENTE
+  foto: maria-eugenia-martinez.jpg
+  fechas: no
+
+- nombre: ARIANE GUADALUPE HERRERA
+  cargo: UJIER
+  foto: ariane-herrera.jpg
+  firma: ariane-herrera.png
+
+- nombre: LUCAS GACITÚA
+  cargo: OBRERO
+  foto: lucas-gacitua.jpg
+  firma: lucas-gacitua.png
+
+- nombre: BRAHIAN DOUGLAS P. HERRERA
+  cargo: OBRERO
+  foto: brahian-herrera.jpg
+  firma: brahian-herrera.png
+
+- nombre: A. CARINA BUSTAMANTE DE GONZALEZ
+  cargo: OBRERO
+  foto: carina-bustamante.jpg
+  firma: carina-bustamante.png
+
+- nombre: M. CELESTE BUSTAMANTE DE HERRERA
+  cargo: OBRERO
+  foto: celeste-bustamante.jpg
+  firma: celeste-bustamante.png
+
+- nombre: GRACIELA B. YBAÑEZ DE HERRERA
+  cargo: OBRERO
+  foto: graciela-ybanez.jpg
+  firma: graciela-ybanez.png
+
+- nombre: JORGE DANIEL HERRERA
+  cargo: OBRERO
+  foto: jorge-herrera.jpg
+  firma: jorge-herrera.png
+
+- nombre: JOSÉ ABEL JARA
+  cargo: COLABORADOR
+  foto: jose-jara.jpg
+  firma: jose-jara.png
+
+- nombre: ZULMA KARINA MORENO
+  cargo: COLABORADOR
+  foto: karina-moreno.jpg
+  firma: karina-moreno.png
+
+- nombre: MÁXIMO GACITÚA
+  cargo: COLABORADOR
+  foto: maximo-gacitua.jpg
+  firma: maximo-gacitua.png
+
+- nombre: RAMONA GOMEZ DE CORIA
+  cargo: COLABORADOR
+  foto: ramona-gomez.jpg
+  firma: ramona-gomez.png
+
+- nombre: RODRIGO NAHUEL HERRERA
+  cargo: COLABORADOR
+  foto: rodrigo-herrera.jpg
+  firma: rodrigo-herrera.png
+
+- nombre: SARA FELICINDA LESCANO
+  cargo: COLABORADOR
+  foto: sara-lescano.jpg
+  firma: sara-lescano.png
